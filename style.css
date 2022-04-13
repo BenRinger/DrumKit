@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('./stockConcert.jpg') bottom center;
   background-size: cover;
 }
 
@@ -48,4 +48,12 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
+}
+
+.btn{
+  display:block;
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  border: 1px solid;
 }
